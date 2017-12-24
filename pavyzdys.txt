@@ -1,9 +1,0 @@
-```math
-<latex>x^2</latex>
-```
-
-<latex>x^2</latex>
-
-```tex
-\sum_{x=0}^n f(x)
-```
