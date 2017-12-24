@@ -1,5 +1,7 @@
 # Matematika
 Matematikos mokymo(si) medžiaga
 
-## Kvietimas
-Kiekvienas skaitantis ir besinaudojantis turiniu, šioje repozitorijoje, yra kviečiamas papildyti ir pataisyti esamą mokymo(si) medžiagą.
+## Eksperimentas
+Šioje repozitorijoje galima paeksperimentuoti matematikos užduočių dalijimąsi tarp mokytojų.
+Kad būtų galima rašyti matematikos lygtis, galima naudoti Atom redaktorių ir Markdown Preview Plus.
+Žiūrėkite [konfigūraciją ir pavyzdį štai čia](https://github.com/Mokykla-v2/Matematika/blob/master/Darbo%20aplinkos%20konfig%C5%ABracija.md)
